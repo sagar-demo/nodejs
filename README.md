@@ -1,4 +1,6 @@
 # nodejs
+![image](https://user-images.githubusercontent.com/64120304/197337113-39d09d9e-7d42-4756-9484-9d01bb547bfa.png)
+
 Step 1 — Creating a Basic HTTP Server
 Let’s start by creating a server that returns plain text to the user. This will cover the key concepts required to set up a server, which will provide the foundation necessary to return more complex data formats like JSON.
 
